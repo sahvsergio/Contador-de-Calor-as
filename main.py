@@ -1,5 +1,8 @@
 import time
 
+import pep8
+"""" Insert grams in  the type of food and calculate the total amount of calories consumed for the moment the information is  provided"""
+
 #create list for categories
 Foods = ('fats', 'alcohol', 'carbohydrates', 'proteins')
 
